@@ -1,0 +1,8 @@
+*************************************************
+O que estou fazendo/ qual a última coisa que fiz?
+*************************************************
+
+Estou seguindo este "tutorial" e parei neste passo:
+
+https://selenium-python.readthedocs.io/getting-started.html#using-selenium-to-write-tests
+
